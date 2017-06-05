@@ -1,0 +1,21 @@
+# ##############################################################################
+
+# iCEcube PCF
+
+# Version:            2017.01.27914
+
+# File Generated:     May 15 2017 09:58:27
+
+# Family & Device:    iCE40HX8K
+
+# Package:            CB132
+
+# ##############################################################################
+
+###IOSet List 5
+set_io i_cs P13
+set_io o_miso M11
+set_io i_clk G14
+set_io i_mosi P11
+set_io i_sclk P12
+
